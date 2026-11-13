@@ -1,0 +1,469 @@
+{
+  "nombre": "Equipo Merlink · Agency Agents",
+  "fuente": "https://github.com/msitarzewski/agency-agents",
+  "licencia": "MIT",
+  "costo": "Gratis",
+  "areas": [
+    {
+      "id": "meta-ads",
+      "titulo": "Meta Ads y publicidad pagada",
+      "descripcion": "Campañas en Meta/Google, creatividades, auditoría y medición (píxel, CAPI, UTM).",
+      "marca": "Merlink Mastery",
+      "agentes": [
+        {
+          "archivo": "paid-media/paid-media-paid-social-strategist.md",
+          "nombre": "Paid Social Strategist",
+          "emoji": "📱",
+          "descripcion_en": "Cross-platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full-funnel social ad programs from prospecting through retargeting with platform-specific creative and audience strategies."
+        },
+        {
+          "archivo": "paid-media/paid-media-creative-strategist.md",
+          "nombre": "Ad Creative Strategist",
+          "emoji": "✍️",
+          "descripcion_en": "Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging."
+        },
+        {
+          "archivo": "paid-media/paid-media-auditor.md",
+          "nombre": "Paid Media Auditor",
+          "emoji": "📋",
+          "descripcion_en": "Comprehensive paid media auditor who systematically evaluates Google Ads, Microsoft Ads, and Meta accounts across 200+ checkpoints spanning account structure, tracking, bidding, creative, audiences, and competitive positioning. Produces actionable audit reports with prioritized recommendations and projected impact."
+        },
+        {
+          "archivo": "paid-media/paid-media-tracking-specialist.md",
+          "nombre": "Tracking & Measurement Specialist",
+          "emoji": "📡",
+          "descripcion_en": "Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable."
+        },
+        {
+          "archivo": "paid-media/paid-media-ppc-strategist.md",
+          "nombre": "PPC Campaign Strategist",
+          "emoji": "💰",
+          "descripcion_en": "Senior paid media strategist specializing in large-scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, budget allocation frameworks, and bidding strategies that scale from $10K to $10M+ monthly spend."
+        },
+        {
+          "archivo": "paid-media/paid-media-search-query-analyst.md",
+          "nombre": "Search Query Analyst",
+          "emoji": "🔍",
+          "descripcion_en": "Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-intent traffic across paid search accounts."
+        },
+        {
+          "archivo": "paid-media/paid-media-programmatic-buyer.md",
+          "nombre": "Programmatic & Display Buyer",
+          "emoji": "📺",
+          "descripcion_en": "Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and ABM display strategies via platforms like Demandbase and 6Sense."
+        }
+      ]
+    },
+    {
+      "id": "redes-contenido",
+      "titulo": "Redes sociales y contenido de valor",
+      "descripcion": "Estrategia de redes, Instagram, TikTok, LinkedIn, carruseles, video corto y publicación multiplataforma.",
+      "marca": "Merlink Mastery",
+      "agentes": [
+        {
+          "archivo": "marketing/marketing-social-media-strategist.md",
+          "nombre": "Social Media Strategist",
+          "emoji": "📣",
+          "descripcion_en": "Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership strategies."
+        },
+        {
+          "archivo": "marketing/marketing-content-creator.md",
+          "nombre": "Content Creator",
+          "emoji": "✍️",
+          "descripcion_en": "Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels."
+        },
+        {
+          "archivo": "marketing/marketing-instagram-curator.md",
+          "nombre": "Instagram Curator",
+          "emoji": "📸",
+          "descripcion_en": "Expert Instagram marketing specialist focused on visual storytelling, community building, and multi-format content optimization. Masters aesthetic development and drives meaningful engagement."
+        },
+        {
+          "archivo": "marketing/marketing-tiktok-strategist.md",
+          "nombre": "TikTok Strategist",
+          "emoji": "🎵",
+          "descripcion_en": "Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok's unique culture and features for brand growth."
+        },
+        {
+          "archivo": "marketing/marketing-linkedin-content-creator.md",
+          "nombre": "LinkedIn Content Creator",
+          "emoji": "💼",
+          "descripcion_en": "Expert LinkedIn content strategist focused on thought leadership, personal brand building, and high-engagement professional content. Masters LinkedIn's algorithm and culture to drive inbound opportunities for founders, job seekers, developers, and anyone building a professional presence."
+        },
+        {
+          "archivo": "marketing/marketing-carousel-growth-engine.md",
+          "nombre": "Carousel Growth Engine",
+          "emoji": "🎠",
+          "descripcion_en": "Autonomous TikTok and Instagram carousel generation specialist. Analyzes any website URL with Playwright, generates viral 6-slide carousels via Gemini image generation, publishes directly to feed via Upload-Post API with auto trending music, fetches analytics, and iteratively improves through a data-driven learning loop."
+        },
+        {
+          "archivo": "marketing/marketing-short-video-editing-coach.md",
+          "nombre": "Short-Video Editing Coach",
+          "emoji": "🎬",
+          "descripcion_en": "Hands-on short-video editing coach covering the full post-production pipeline, with mastery of CapCut Pro, Premiere Pro, DaVinci Resolve, and Final Cut Pro across composition and camera language, color grading, audio engineering, motion graphics and VFX, subtitle design, multi-platform export optimization, editing workflow efficiency, and AI-assisted editing."
+        },
+        {
+          "archivo": "marketing/marketing-video-optimization-specialist.md",
+          "nombre": "Video Optimization Specialist",
+          "emoji": "🎬",
+          "descripcion_en": "Video marketing strategist specializing in YouTube algorithm optimization, audience retention, chaptering, thumbnail concepts, and cross-platform video syndication."
+        },
+        {
+          "archivo": "marketing/marketing-multi-platform-publisher.md",
+          "nombre": "Multi-Platform Publisher",
+          "emoji": "📡",
+          "descripcion_en": "Expert orchestrator for one-click Chinese blog publishing. Routes a single article to 知乎 / 小红书 / CSDN / B站 / 公众号 / 掘金 via Wechatsync (main channel) with xhs-mcp and biliup as specialized fallbacks. Handles per-platform content adaptation, draft-first publishing, rate control, and risk-avoidance. Does NOT auto-publish — always stops at draft for human review."
+        }
+      ]
+    },
+    {
+      "id": "rebranding",
+      "titulo": "Rebranding y diseño",
+      "descripcion": "Identidad de marca, storytelling visual, prompts de imagen y diseño UI/UX.",
+      "marca": "Todas las marcas",
+      "agentes": [
+        {
+          "archivo": "design/design-brand-guardian.md",
+          "nombre": "Brand Guardian",
+          "emoji": "🎨",
+          "descripcion_en": "Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning"
+        },
+        {
+          "archivo": "design/design-visual-storyteller.md",
+          "nombre": "Visual Storyteller",
+          "emoji": "🎬",
+          "descripcion_en": "Expert visual communication specialist focused on creating compelling visual narratives, multimedia content, and brand storytelling through design. Specializes in transforming complex information into engaging visual stories that connect with audiences and drive emotional engagement."
+        },
+        {
+          "archivo": "design/design-image-prompt-engineer.md",
+          "nombre": "Image Prompt Engineer",
+          "emoji": "📷",
+          "descripcion_en": "Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools."
+        },
+        {
+          "archivo": "design/design-ui-designer.md",
+          "nombre": "UI Designer",
+          "emoji": "🎨",
+          "descripcion_en": "Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and reflect brand identity"
+        },
+        {
+          "archivo": "design/design-ux-architect.md",
+          "nombre": "UX Architect",
+          "emoji": "📐",
+          "descripcion_en": "Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance"
+        }
+      ]
+    },
+    {
+      "id": "comunidad-monetizacion",
+      "titulo": "Comunidad y monetización de canales",
+      "descripcion": "Crecimiento, comunidad, email marketing, podcast y SEO/AEO para que la IA cite tus marcas.",
+      "marca": "Merlink Mastery",
+      "agentes": [
+        {
+          "archivo": "marketing/marketing-growth-hacker.md",
+          "nombre": "Growth Hacker",
+          "emoji": "🚀",
+          "descripcion_en": "Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth."
+        },
+        {
+          "archivo": "marketing/marketing-reddit-community-builder.md",
+          "nombre": "Reddit Community Builder",
+          "emoji": "💬",
+          "descripcion_en": "Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation."
+        },
+        {
+          "archivo": "marketing/marketing-email-strategist.md",
+          "nombre": "Email Marketing Strategist",
+          "emoji": "📧",
+          "descripcion_en": "Expert email marketing strategist for CRM-driven campaigns, lifecycle automation, segmentation architecture, and deliverability. Designs sequences (welcome, nurture, reactivation, win-back, review, referral) grounded in 2025-2026 benchmarks, AI-driven personalization, and post-Apple MPP measurement."
+        },
+        {
+          "archivo": "marketing/marketing-podcast-strategist.md",
+          "nombre": "Podcast Strategist",
+          "emoji": "🎧",
+          "descripcion_en": "Content strategy and operations expert for the Chinese podcast market, with deep expertise in Xiaoyuzhou, Ximalaya, and other major audio platforms, covering show positioning, audio production, audience growth, multi-platform distribution, and monetization to help podcast creators build sticky audio content brands."
+        },
+        {
+          "archivo": "marketing/marketing-seo-specialist.md",
+          "nombre": "SEO Specialist",
+          "emoji": "🔍",
+          "descripcion_en": "Expert search engine optimization strategist specializing in technical SEO, content optimization, link authority building, and organic search growth. Drives sustainable traffic through data-driven search strategies."
+        },
+        {
+          "archivo": "marketing/marketing-ai-citation-strategist.md",
+          "nombre": "AI Citation Strategist",
+          "emoji": "🔮",
+          "descripcion_en": "Expert in AI recommendation engine optimization (AEO/GEO) — audits brand visibility across ChatGPT, Claude, Gemini, and Perplexity, identifies why competitors get cited instead, and delivers content fixes that improve AI citations"
+        },
+        {
+          "archivo": "marketing/marketing-aeo-foundations.md",
+          "nombre": "AEO Foundations Architect",
+          "emoji": "🏗️",
+          "descripcion_en": "Expert in AI Engine Optimization infrastructure — implements llms.txt, AI-aware robots.txt, token-budgeted content, structured Markdown availability, and agent discovery files so AI crawlers, citation engines, and browsing agents can find, parse, and act on your site"
+        }
+      ]
+    },
+    {
+      "id": "ecommerce-tienda",
+      "titulo": "E-commerce y tienda",
+      "descripcion": "Tiendas WooCommerce, ventas en vivo, comercio transfronterizo y precios.",
+      "marca": "Tienda / clientes",
+      "agentes": [
+        {
+          "archivo": "engineering/engineering-wordpress-shopping-cart.md",
+          "nombre": "WordPress Shopping Cart Engineer",
+          "emoji": "🛍️",
+          "descripcion_en": "Expert WordPress e-commerce engineer specializing in WooCommerce for product catalog management, payment gateway integration, checkout customization, order management, tax and coupon configuration, and conversion-optimized storefront delivery on WordPress"
+        },
+        {
+          "archivo": "marketing/marketing-cross-border-ecommerce.md",
+          "nombre": "Cross-Border E-Commerce Specialist",
+          "emoji": "🌏",
+          "descripcion_en": "Full-funnel cross-border e-commerce strategist covering Amazon, Shopee, Lazada, AliExpress, Temu, and TikTok Shop operations, international logistics and overseas warehousing, compliance and taxation, multilingual listing optimization, brand globalization, and DTC independent site development."
+        },
+        {
+          "archivo": "marketing/marketing-livestream-commerce-coach.md",
+          "nombre": "Livestream Commerce Coach",
+          "emoji": "🎙️",
+          "descripcion_en": "Veteran livestream e-commerce coach specializing in host training and live room operations across Douyin, Kuaishou, Taobao Live, and Channels, covering script design, product sequencing, paid-vs-organic traffic balancing, conversion closing techniques, and real-time data-driven optimization."
+        },
+        {
+          "archivo": "specialized/specialized-pricing-analyst.md",
+          "nombre": "Pricing Analyst",
+          "emoji": "💰",
+          "descripcion_en": "Specialized pricing analyst who develops optimal pricing models through market research, competitor analysis, cost structure evaluation, and margin optimization — turning pricing from guesswork into a data-driven competitive advantage."
+        },
+        {
+          "archivo": "specialized/retail-customer-returns.md",
+          "nombre": "Retail Customer Returns",
+          "emoji": "🛒",
+          "descripcion_en": "Comprehensive retail customer returns specialist for processing returns, exchanges, and refunds across in-store, online, and omnichannel retail — handling policy enforcement, fraud prevention, customer retention, vendor returns, and returns analytics to maximize recovery while preserving customer loyalty"
+        }
+      ]
+    },
+    {
+      "id": "ventas",
+      "titulo": "Ventas y captación de clientes",
+      "descripcion": "Ofertas y lead gen, prospección, propuestas, pipeline y cierre.",
+      "marca": "Todas las marcas",
+      "agentes": [
+        {
+          "archivo": "sales/sales-offer-lead-gen-strategist.md",
+          "nombre": "Offer & Lead Gen Strategist",
+          "emoji": "🧲",
+          "descripcion_en": "Top-of-funnel architect who designs irresistible offers and lead magnets that attract qualified buyers at scale. Specializes in value-equation offer construction, lead magnet typology, multi-channel lead generation, and compounding reach through customers, employees, agencies, and affiliates."
+        },
+        {
+          "archivo": "sales/sales-outbound-strategist.md",
+          "nombre": "Outbound Strategist",
+          "emoji": "🎯",
+          "descripcion_en": "Signal-based outbound specialist who designs multi-channel prospecting sequences, defines ICPs, and builds pipeline through research-driven personalization — not volume."
+        },
+        {
+          "archivo": "sales/sales-proposal-strategist.md",
+          "nombre": "Proposal Strategist",
+          "emoji": "🏹",
+          "descripcion_en": "Strategic proposal architect who transforms RFPs and sales opportunities into compelling win narratives. Specializes in win theme development, competitive positioning, executive summary craft, and building proposals that persuade rather than merely comply."
+        },
+        {
+          "archivo": "sales/sales-discovery-coach.md",
+          "nombre": "Discovery Coach",
+          "emoji": "🔍",
+          "descripcion_en": "Coaches sales teams on elite discovery methodology — question design, current-state mapping, gap quantification, and call structure that surfaces real buying motivation."
+        },
+        {
+          "archivo": "sales/sales-deal-strategist.md",
+          "nombre": "Deal Strategist",
+          "emoji": "♟️",
+          "descripcion_en": "Senior deal strategist specializing in MEDDPICC qualification, competitive positioning, and win planning for complex B2B sales cycles. Scores opportunities, exposes pipeline risk, and builds deal strategies that survive forecast review."
+        },
+        {
+          "archivo": "sales/sales-pipeline-analyst.md",
+          "nombre": "Pipeline Analyst",
+          "emoji": "📊",
+          "descripcion_en": "Revenue operations analyst specializing in pipeline health diagnostics, deal velocity analysis, forecast accuracy, and data-driven sales coaching. Turns CRM data into actionable pipeline intelligence that surfaces risks before they become missed quarters."
+        },
+        {
+          "archivo": "sales/sales-account-strategist.md",
+          "nombre": "Account Strategist",
+          "emoji": "🗺️",
+          "descripcion_en": "Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relationships through systematic expansion planning and multi-threaded account development."
+        },
+        {
+          "archivo": "sales/sales-coach.md",
+          "nombre": "Sales Coach",
+          "emoji": "🏋️",
+          "descripcion_en": "Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better through structured coaching methodology and behavioral feedback."
+        }
+      ]
+    },
+    {
+      "id": "multiagente-automatizacion",
+      "titulo": "Multiagente y automatizaciones",
+      "descripcion": "Orquestar agentes, diseñar flujos, gobernanza de automatizaciones, MCP e IA conversacional (WhatsApp/voz).",
+      "marca": "Atlas",
+      "agentes": [
+        {
+          "archivo": "specialized/agents-orchestrator.md",
+          "nombre": "Agents Orchestrator",
+          "emoji": "🎛️",
+          "descripcion_en": "Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process."
+        },
+        {
+          "archivo": "engineering/engineering-multi-agent-systems-architect.md",
+          "nombre": "Multi-Agent Systems Architect",
+          "emoji": "🕸️",
+          "descripcion_en": "Systems architect specializing in the design, coordination, and governance of multi-agent AI pipelines — covering topology selection, context management, inter-agent trust, failure recovery, human-in-the-loop gating, and observability for production-grade agent systems."
+        },
+        {
+          "archivo": "specialized/specialized-workflow-architect.md",
+          "nombre": "Workflow Architect",
+          "emoji": "🗺️",
+          "descripcion_en": "Workflow design specialist who maps complete workflow trees for every system, user journey, and agent interaction — covering happy paths, all branch conditions, failure modes, recovery paths, handoff contracts, and observable states to produce build-ready specs that agents can implement against and QA can test against."
+        },
+        {
+          "archivo": "specialized/automation-governance-architect.md",
+          "nombre": "Automation Governance Architect",
+          "emoji": "⚙️",
+          "descripcion_en": "Governance-first architect for business automations (n8n-first) who audits value, risk, and maintainability before implementation."
+        },
+        {
+          "archivo": "specialized/specialized-mcp-builder.md",
+          "nombre": "MCP Builder",
+          "emoji": "🔌",
+          "descripcion_en": "Expert Model Context Protocol developer who designs, builds, and tests MCP servers that extend AI agent capabilities with custom tools, resources, and prompts."
+        },
+        {
+          "archivo": "engineering/engineering-ai-engineer.md",
+          "nombre": "AI Engineer",
+          "emoji": "🤖",
+          "descripcion_en": "Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions."
+        },
+        {
+          "archivo": "engineering/engineering-prompt-engineer.md",
+          "nombre": "Prompt Engineer",
+          "emoji": "🧬",
+          "descripcion_en": "Specialist in crafting, testing, and systematically optimizing prompts for LLMs — turning vague instructions into reliable, production-grade AI behaviors."
+        },
+        {
+          "archivo": "engineering/engineering-voice-ai-integration-engineer.md",
+          "nombre": "Voice AI Integration Engineer",
+          "emoji": "🎙️",
+          "descripcion_en": "Expert in building end-to-end speech transcription pipelines using Whisper-style models and cloud ASR services — from raw audio ingestion through preprocessing, transcript cleanup, subtitle generation, speaker diarization, and structured downstream integration into apps, APIs, and CMS platforms."
+        }
+      ]
+    },
+    {
+      "id": "atencion-cliente",
+      "titulo": "Atención y éxito del cliente",
+      "descripcion": "Soporte, éxito del cliente y respuestas para WhatsApp Business.",
+      "marca": "Todas las marcas",
+      "agentes": [
+        {
+          "archivo": "specialized/customer-service.md",
+          "nombre": "Customer Service",
+          "emoji": "🎧",
+          "descripcion_en": "Friendly, professional customer service specialist for any industry — handling inquiries, complaints, account support, FAQs, and seamless escalation with warmth, efficiency, and a genuine commitment to customer satisfaction"
+        },
+        {
+          "archivo": "specialized/customer-success-manager.md",
+          "nombre": "Customer Success Manager",
+          "emoji": "🌟",
+          "descripcion_en": "Strategic customer success specialist for onboarding, health scoring, QBR facilitation, churn prevention, expansion identification, and renewal management — driving net revenue retention by turning customers into long-term partners who achieve measurable outcomes"
+        },
+        {
+          "archivo": "support/support-support-responder.md",
+          "nombre": "Support Responder",
+          "emoji": "💬",
+          "descripcion_en": "Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and turning support interactions into positive brand experiences."
+        }
+      ]
+    },
+    {
+      "id": "abovirtual-legal",
+      "titulo": "Abovirtual (legal)",
+      "descripcion": "Ingreso de clientes legales, revisión de documentos y cumplimiento.",
+      "marca": "Abovirtual Chile / México",
+      "agentes": [
+        {
+          "archivo": "specialized/legal-client-intake.md",
+          "nombre": "Legal Client Intake",
+          "emoji": "📋",
+          "descripcion_en": "Comprehensive legal client intake specialist for qualifying prospects, collecting case information, scheduling consultations, managing conflict checks, and delivering attorney-ready intake summaries across any practice area and firm size"
+        },
+        {
+          "archivo": "specialized/legal-document-review.md",
+          "nombre": "Legal Document Review",
+          "emoji": "⚖️",
+          "descripcion_en": "Comprehensive legal document review specialist for contracts, litigation documents, and real estate agreements — summarizing documents, flagging risk clauses, comparing contract versions, and checking compliance across any law firm size or practice area"
+        },
+        {
+          "archivo": "support/support-legal-compliance-checker.md",
+          "nombre": "Legal Compliance Checker",
+          "emoji": "⚖️",
+          "descripcion_en": "Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions."
+        }
+      ]
+    },
+    {
+      "id": "smart-property",
+      "titulo": "Smart Property (inmobiliaria)",
+      "descripcion": "Compra/venta de propiedades y documentos.",
+      "marca": "Smart Property",
+      "agentes": [
+        {
+          "archivo": "specialized/real-estate-buyer-seller.md",
+          "nombre": "Real Estate Buyer & Seller",
+          "emoji": "🏠",
+          "descripcion_en": "Comprehensive real estate agent assistant for buyer representation, seller representation, listing management, offer negotiation, transaction coordination, and closing support — delivering a world-class client experience from first showing to final closing across residential and investment real estate"
+        },
+        {
+          "archivo": "specialized/specialized-document-generator.md",
+          "nombre": "Document Generator",
+          "emoji": "📄",
+          "descripcion_en": "Expert document creation specialist who generates professional PDF, PPTX, DOCX, and XLSX files using code-based approaches with proper formatting, charts, and data visualization."
+        }
+      ]
+    },
+    {
+      "id": "direccion",
+      "titulo": "Dirección de la agencia",
+      "descripcion": "Estrategia, jefe de gabinete, tendencias y reportes.",
+      "marca": "Agencia",
+      "agentes": [
+        {
+          "archivo": "specialized/business-strategist.md",
+          "nombre": "Business Strategist",
+          "emoji": "♟️",
+          "descripcion_en": "Senior management consulting specialist for competitive analysis, market entry strategy, business model design, growth planning, organizational strategy, and strategic decision-making — translating complex market dynamics into clear, actionable strategies that create sustainable competitive advantage"
+        },
+        {
+          "archivo": "specialized/specialized-chief-of-staff.md",
+          "nombre": "Chief of Staff",
+          "emoji": "🧭",
+          "descripcion_en": "Master coordinator for founders and executives — filters noise, owns processes, enforces consistency, routes decisions, and positions outputs for impact so the boss can think clearly."
+        },
+        {
+          "archivo": "product/product-trend-researcher.md",
+          "nombre": "Trend Researcher",
+          "emoji": "🔭",
+          "descripcion_en": "Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions."
+        },
+        {
+          "archivo": "support/support-analytics-reporter.md",
+          "nombre": "Analytics Reporter",
+          "emoji": "📊",
+          "descripcion_en": "Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting."
+        },
+        {
+          "archivo": "support/support-executive-summary-generator.md",
+          "nombre": "Executive Summary Generator",
+          "emoji": "📝",
+          "descripcion_en": "Consultant-grade AI specialist trained to think and communicate like a senior strategy consultant. Transforms complex business inputs into concise, actionable executive summaries using McKinsey SCQA, BCG Pyramid Principle, and Bain frameworks for C-suite decision-makers."
+        }
+      ]
+    }
+  ],
+  "total_agentes": 62
+}
